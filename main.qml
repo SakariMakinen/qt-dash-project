@@ -6,4 +6,17 @@ Window {
     height: 480
     visible: true
     title: qsTr("Hello World")
+
+    Rectangle {
+        id: backGroundRec
+        color: 'black'
+        anchors.fill: parent
+        z:-1
+    }
+
+
+
+
+
+
 }
