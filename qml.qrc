@@ -6,5 +6,16 @@
         <file>res/dash_rpm.png</file>
         <file>res/dash_speed.png</file>
         <file>res/dash_yellow.png</file>
+        <file>MyDash_speed.qml</file>
+        <file>MyDash_rpm.qml</file>
+        <file>MyDash_middle.qml</file>
+        <file>MyDash_bottom.qml</file>
+        <file>MyEngine.qml</file>
+        <file>LeftArrow.qml</file>
+        <file>RightArrow.qml</file>
+        <file>res/engineTemp.png</file>
+        <file>res/engineLight.png</file>
+        <file>res/handBrake.png</file>
+        <file>res/keyLight.png</file>
     </qresource>
 </RCC>
